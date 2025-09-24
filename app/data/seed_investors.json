@@ -1,0 +1,55 @@
+[
+    {
+      "name": "Sarah Guo",
+      "fund": "Conviction",
+      "stages": ["pre-seed","seed","series-a"],
+      "sectors": ["ai","infrastructure","developer tools","security"],
+      "check_min": 250000,
+      "check_max": 3000000,
+      "geo": "US",
+      "notable_investments": ["Anthropic","Runway","Perplexity"],
+      "recent_news": ["Invested in early infra AI startups"],
+      "urls": ["https://www.conviction.com/"],
+      "warm_paths": ["Podcast appearance", "Mutual via portfolio overlap"]
+    },
+    {
+      "name": "Sequoia Seed Team",
+      "fund": "Sequoia Capital",
+      "stages": ["seed","series-a"],
+      "sectors": ["ai","enterprise","infra","fintech"],
+      "check_min": 1000000,
+      "check_max": 5000000,
+      "geo": "US",
+      "notable_investments": ["OpenAI","Stripe","Snowflake"],
+      "recent_news": [],
+      "urls": ["https://www.sequoiacap.com/"],
+      "warm_paths": ["Founder alumni network"]
+    },
+    {
+      "name": "Lightspeed Venture Partners",
+      "fund": "Lightspeed",
+      "stages": ["seed","series-a","series-b"],
+      "sectors": ["ai","saas","infra","security"],
+      "check_min": 500000,
+      "check_max": 8000000,
+      "geo": "US",
+      "notable_investments": ["Nutanix","Rubrik","OutSystems"],
+      "recent_news": ["Launched new AI initiative"],
+      "urls": ["https://lsvp.com/"],
+      "warm_paths": ["Operator network"]
+    },
+    {
+      "name": "Index Ventures",
+      "fund": "Index Ventures",
+      "stages": ["seed","series-a","series-b"],
+      "sectors": ["ai","developer tools","consumer","infra"],
+      "check_min": 500000,
+      "check_max": 10000000,
+      "geo": "US/EU",
+      "notable_investments": ["Datadog","Confluent","Discord"],
+      "recent_news": [],
+      "urls": ["https://www.indexventures.com/"],
+      "warm_paths": []
+    }
+  ]
+  
